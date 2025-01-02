@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hello, I'm Suma!
+
+I'm Computer Science student in Silpakorn University.
+
+## Connect with me
+- [Email](muaunwongtum_s@silpakorn.edu)
+- [LinkedIn](https://www.linkedin.com/in/sukumaporn-muaunwongtum-854628336/)
+- [Facebook](https://www.facebook.com/suma.muaunwongtum)
+  
