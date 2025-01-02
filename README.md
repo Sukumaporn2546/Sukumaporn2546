@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="header" align="center">
+<!--<div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm16ZnFnOGlkMTJocTEzNjNzZGlkaW1jOTN5dXl4bTZoZ3g2cXI0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
 </div>
+-->
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sukumaporn-muaunwongtum-854628336/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -28,10 +29,6 @@ Here are some ideas to get you started:
 <div align="center"
 <img src="https://komarev.com/ghpvc/?username=Sukumaporn2546&style=flat-square&color=blue" alt=""/>
 </div>
-<h1 align="center">
-  Hi, there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 ### :woman_technologist: About Me :
 Hello, my name is Suma. I am a computer science student at Silpakorn University. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
